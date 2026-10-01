@@ -4,10 +4,9 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++)
         {
-            int key=nums[i];
             for(int j=i+1;j<n;j++)
             {
-                if(key+nums[j]==target)
+                if(nums[i]+nums[j]==target)
                 {
                     return {i,j};
                 }

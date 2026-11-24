@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asraful2105/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Asraful2105/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Asraful2105/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/Asraful2105/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Asraful2105/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Asraful2105/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Asraful2105/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Asraful2105/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Asraful2105/Leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Asraful2105/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Asraful2105/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Asraful2105/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Asraful2105/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
